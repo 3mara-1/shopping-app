@@ -69,7 +69,7 @@ Big Basket is a feature-rich shopping application that demonstrates advanced Flu
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/big_basket.git
+   git clone https://github.com/3mara-1/big_basket.git
    cd big_basket
    ```
 
@@ -293,7 +293,7 @@ dev_dependencies:
 
 ### Validation Examples
 ![Sign up Validation](screenshots/signup_validation.png)
-![Sign in Validation](screenshots/sigin_validation.png)
+![Sign in Validation](screenshots/signin_validation.png)
 
 ## 🚀 Future Enhancements
 
@@ -313,15 +313,11 @@ dev_dependencies:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/3mara-1)
+- Email: your.ahmedabdo.net2090@gmail.com
 
 ---
 
