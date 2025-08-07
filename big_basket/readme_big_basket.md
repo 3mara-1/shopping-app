@@ -276,8 +276,12 @@ dev_dependencies:
 ![Welcome Screen Arabic](screenshots/welcome_ar.png)
 
 ### Authentication Screens
-![Sign In Form](screenshots/signin_form.png)
-![Sign Up Form](screenshots/signup_form.png)
+![Sign In Form ar](screenshots/signin_ar.png)
+![Sign In Form en](screenshots/signin_en.png)
+
+![Sign Up Form ar](screenshots/signup_ar.png)
+![Sign Up Form en](screenshots/signup_en.png)
+
 ![Success Dialog](screenshots/success_dialog.png)
 
 ### Shopping Home Screen
@@ -285,10 +289,11 @@ dev_dependencies:
 ![Home Screen Arabic](screenshots/home_ar.png)
 ![Product Grid](screenshots/product_grid.png)
 ![Hot Offers](screenshots/hot_offers.png)
+![Add to cart](screenshots/add_to_cart.png)
 
 ### Validation Examples
-![Form Validation](screenshots/form_validation.png)
-![First Letter Validation](screenshots/first_letter_validation.png)
+![Sign up Validation](screenshots/signup_validation.png)
+![Sign in Validation](screenshots/sigin_validation.png)
 
 ## 🚀 Future Enhancements
 
