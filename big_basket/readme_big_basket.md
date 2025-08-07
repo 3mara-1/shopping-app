@@ -69,7 +69,7 @@ Big Basket is a feature-rich shopping application that demonstrates advanced Flu
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/3mara-1/shopping-app/big_basket.git
+   git clone https://github.com/3mara-1/shopping-app.git
    cd big_basket
    ```
 
